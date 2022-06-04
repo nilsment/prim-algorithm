@@ -49,7 +49,7 @@ def prim(edges):
     #which is returned in the form of the original graph
     return ergebnis
 
-#sample of an weighted graph
+#sample of a weighted graph
 edges = [(0,1,4), (1,6,3), (0,2,7), (1,3,1), (3,6,3), (2,4,2), (3,4,7), (4,5,6),
 (5,8,2), (0,7,5), (4,7,4), (5,8,3), (6,8,10), (8,9,1), (4,9,4), (7,9,2)]
 
