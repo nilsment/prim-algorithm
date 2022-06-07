@@ -5,7 +5,7 @@ The graph has to fulfill the following requirements for the algorithm to work
 - The graph is fully connected and unidirectional
 - The edges are weighted
 
-The graph is presented in a list of edges, which consist of tuples whose first two entries are the two vertices and the third is the weight of the edge.
+The graph is presented in a list of edges, which consists of tuples whose first two entries are the two vertices and the third is the weight of the edge.
 
 Example:
 [(0,1,4), (1,6,3)]
